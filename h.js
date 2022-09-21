@@ -1,11 +1,4 @@
-<html lang="en">
-<head>
-<title>JavaScript Syntax</title>
-</head>
-<body>
-    <h1>Open Console</h1>
-    (ctrl+shift+I)
-    <script>
+
         console.log("Hi!!! I am on console!")
         var fn="Siddharth"
         var ln="Sabarish"
@@ -30,6 +23,9 @@
         console.log(min)
         var power=Math.pow(4,4)
         console.log(power)
-    </script>
-</body>
-</html>
+   var a=3
+   var b=3
+   console.log(a*b)
+   console.log(a/b)
+   console.log(a+b)
+   console.log(a-b)
